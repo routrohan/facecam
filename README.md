@@ -1,4 +1,4 @@
-# SmartBrain - v1
+# FaceCam - v1
 Final project for Udemy course
 
 1. Clone this repo
